@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICSUL. Sou fissurado por tecnologia e programação
+Me chamo Guilherme, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICSUL. Sou fissurado por tecnologia e programação !
 
 <p align="left">
     </a> 
