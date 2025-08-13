@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Guilherme Timóteo
 
-**`Desenvolvedor FullStack`**
+**`QA Engineer`**
 
 Me chamo Guilherme, tenho 18 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICSUL. Sou fissurado por tecnologia e programação !
 
